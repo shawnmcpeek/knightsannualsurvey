@@ -4,4 +4,4 @@ Every time a council completes a program (that has volunteer hours and donations
 These reports can then be compiled to provide most of the data for the Annual Survey of Fraternal Activity. While there may be more hours and money to include as well as some other parts of the form, most of the information is contained on these reports.
 As someone who works with both the reports and the survey, I saw a need for something that will easily collect the data from the reports, and then be able to compile them at the end of the year. 
 I worked on this a lot, put it with a GUI and made it so that any python using Knight can use it. I even converted it to an EXE.
-If anyone on a MAC can convert it to a file for MAC usage and share it with me, I would greatly appreciate it!
+If anyone on a MAC can convert it to a file for MAC usage and share it with me, I would greatly appreciate it! I could also use help making the annual report compile, convert it/create a PDF of the data, and have the pop up on screen.
